@@ -1,0 +1,4 @@
+deploy:
+  provider: heroku
+  app: mysterious-lowlands-24435
+  api_key: ${HEROKU_API_KEY}
