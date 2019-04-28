@@ -1,3 +1,11 @@
+
+
+.. image:: https://travis-ci.org/sancios3/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/sancios3/se_hello_printer_app
+
+.. image:: https://app.statuscake.com/button/index.php?Track=g3rBA1C3tX&Days=1&Design=1
+	:target: https://www.statuscake.com
+
 Simple Flask App
 ================
 
